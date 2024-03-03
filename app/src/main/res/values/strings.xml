@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">DiceMath-CIS436</string>
+    <string name="RollButtonText">Roll Die</string>
+    <string name="GuessButtonText">Guess</string>
+    <string name="DiceAlt">Dice 1</string>
+    <string name="JackpotText">Jackpot: 0</string>
+    <string name="MessageText">Message</string>
+    <string name="P1Text">Player 1:\n0</string>
+    <string name="P2Text">Player 2:\n0</string>
+    <string name="GuessText">X + Y = </string>
+    <string name="GuessHint">0</string>
 </resources>
